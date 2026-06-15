@@ -8,4 +8,5 @@
 - para me alcançar: eduardo.oliveira.carlos0907@escola.pr.gov.br
 - pronome: ELE
 - fun fact: sou chato
+- https://tenor.com/pt-BR/view/homer-simpsons-tractor-accident-farming-gif-3312457208190308391
 - 
