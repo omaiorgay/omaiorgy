@@ -9,5 +9,5 @@
 - pronome: ELE
 - fun fact: sou chato
 
-  ![](<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/56cafdcc-addb-4a2c-8077-c15b6f893c97" />)
+  ![]()<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/56cafdcc-addb-4a2c-8077-c15b6f893c97" />
 
